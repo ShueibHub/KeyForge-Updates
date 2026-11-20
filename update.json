@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "title": "KeyForge Update",
+  "description": "تحديث جديد لتطبيق KeyForge",
+  "image": "https://example.com/banner.webp",
+  "features": [
+    "تحسين الأداء",
+    "إصلاح الأخطاء",
+    "تحسينات عامة"
+  ],
+  "downloads": {
+    "github": "https://github.com/USERNAME/REPO/releases/latest",
+    "uptodown": "https://www.uptodown.com/"
+  }
+}
