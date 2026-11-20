@@ -1,14 +1,32 @@
 {
   "version": "1.1.0",
   "versionCode": 2,
-  "title": "KeyForge Update",
+
+  "title": "تحديث جديد لتطبيق KeyForge",
+  "title_ar": "تحديث جديد لتطبيق KeyForge",
+  "title_en": "New KeyForge Update",
+
   "description": "تحديث جديد لتطبيق KeyForge",
+  "description_ar": "تحديث جديد لتطبيق KeyForge",
+  "description_en": "A new update for KeyForge",
+
   "image": "https://raw.githubusercontent.com/ShueibHub/KeyForge-Updates/main/ic_update.webp",
+
   "features": [
+    "تحسين الأداء",
+    "إصلاح الأخطاء"
+  ],
+  "features_ar": [
     "تحسين الأداء",
     "إصلاح الأخطاء",
     "تحسينات عامة"
   ],
+  "features_en": [
+    "Performance improvements",
+    "Bug fixes",
+    "General enhancements"
+  ],
+
   "downloads": {
     "github": "https://github.com/USERNAME/REPO/releases/latest",
     "uptodown": "https://www.uptodown.com/"
